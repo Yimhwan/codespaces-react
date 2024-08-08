@@ -1,15 +1,18 @@
 import './App.css';
-
+ 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
         <img src="Octocat.png" className="App-logo" alt="logo" />
         <p>
-          GitHub Codespaces <span className="heart">♥️</span> React
+          GitHub Codespaces <span className="heart">♥️♥️♥️♥️♥️♥️♥️♥️</span> React
         </p>
-        <p className="small">
+        <p className="Small">
           Edit <code>src/App.jsx</code> and save to reload.
+        </p>
+        <p>
+          Hello Kunlanan
         </p>
         <p>
           <a
@@ -25,5 +28,5 @@ function App() {
     </div>
   );
 }
-
+ 
 export default App;
